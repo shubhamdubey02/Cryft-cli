@@ -12,7 +12,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/config v1.27.9
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.154.0
 	github.com/chelnak/ysmrr v0.4.0
-	github.com/docker/docker v26.0.0+incompatible
+	github.com/docker/docker v27.3.1+incompatible
 	github.com/ethereum/go-ethereum v1.12.2
 	github.com/fatih/color v1.16.0
 	github.com/go-git/go-git/v5 v5.11.0
@@ -216,6 +216,5 @@ require (
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
-	gotest.tools/v3 v3.3.0 // indirect
 	rsc.io/tmplfunc v0.0.3 // indirect
 )
