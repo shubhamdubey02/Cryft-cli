@@ -3,9 +3,9 @@
 package networkcmd
 
 import (
+	"github.com/MetalBlockchain/metal-cli/pkg/binutils"
+	"github.com/MetalBlockchain/metal-cli/pkg/ux"
 	"github.com/MetalBlockchain/metal-network-runner/server"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/binutils"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/spf13/cobra"
 )
 

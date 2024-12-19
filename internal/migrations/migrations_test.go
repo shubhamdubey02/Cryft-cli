@@ -7,11 +7,11 @@ import (
 	"errors"
 	"testing"
 
+	"github.com/MetalBlockchain/metal-cli/pkg/application"
+	"github.com/MetalBlockchain/metal-cli/pkg/config"
+	"github.com/MetalBlockchain/metal-cli/pkg/prompts"
+	"github.com/MetalBlockchain/metal-cli/pkg/ux"
 	"github.com/MetalBlockchain/metalgo/utils/logging"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/config"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/prompts"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/stretchr/testify/require"
 )
 

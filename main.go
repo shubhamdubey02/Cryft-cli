@@ -3,7 +3,7 @@
 package main
 
 import (
-	"github.com/shubhamdubey02/Cryft-cli/cmd"
+	"github.com/MetalBlockchain/metal-cli/cmd"
 )
 
 func main() {

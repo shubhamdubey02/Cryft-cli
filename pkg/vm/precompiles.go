@@ -7,12 +7,12 @@ import (
 	"errors"
 	"math/big"
 
+	"github.com/MetalBlockchain/metal-cli/pkg/application"
+	"github.com/MetalBlockchain/metal-cli/pkg/prompts"
+	"github.com/MetalBlockchain/metal-cli/pkg/statemachine"
 	"github.com/ava-labs/subnet-evm/params"
 	"github.com/ava-labs/subnet-evm/precompile"
 	"github.com/ethereum/go-ethereum/common"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/prompts"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/statemachine"
 )
 
 type Precompile string

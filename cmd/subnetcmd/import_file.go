@@ -9,10 +9,10 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/shubhamdubey02/Cryft-cli/pkg/apmintegration"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
+	"github.com/MetalBlockchain/metal-cli/pkg/apmintegration"
+	"github.com/MetalBlockchain/metal-cli/pkg/constants"
+	"github.com/MetalBlockchain/metal-cli/pkg/models"
+	"github.com/MetalBlockchain/metal-cli/pkg/ux"
 	"github.com/spf13/cobra"
 )
 

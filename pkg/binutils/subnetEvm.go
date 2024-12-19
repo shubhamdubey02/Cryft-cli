@@ -6,8 +6,8 @@ package binutils
 import (
 	"path/filepath"
 
-	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/MetalBlockchain/metal-cli/pkg/application"
+	"github.com/MetalBlockchain/metal-cli/pkg/constants"
 )
 
 func SetupSubnetEVM(app *application.Avalanche, subnetEVMVersion string) (string, error) {

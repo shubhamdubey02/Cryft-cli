@@ -6,13 +6,13 @@ import (
 	"fmt"
 	"path"
 
+	"github.com/MetalBlockchain/metal-cli/pkg/binutils"
+	"github.com/MetalBlockchain/metal-cli/pkg/constants"
+	"github.com/MetalBlockchain/metal-cli/pkg/subnet"
+	"github.com/MetalBlockchain/metal-cli/pkg/ux"
 	"github.com/MetalBlockchain/metal-network-runner/client"
 	"github.com/MetalBlockchain/metal-network-runner/server"
 	"github.com/MetalBlockchain/metal-network-runner/utils"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/binutils"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/subnet"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/spf13/cobra"
 )
 

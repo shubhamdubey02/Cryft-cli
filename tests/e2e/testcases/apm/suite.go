@@ -6,10 +6,10 @@ package apm
 import (
 	"fmt"
 
+	"github.com/MetalBlockchain/metal-cli/tests/e2e/commands"
+	"github.com/MetalBlockchain/metal-cli/tests/e2e/utils"
 	ginkgo "github.com/onsi/ginkgo/v2"
 	"github.com/onsi/gomega"
-	"github.com/shubhamdubey02/Cryft-cli/tests/e2e/commands"
-	"github.com/shubhamdubey02/Cryft-cli/tests/e2e/utils"
 )
 
 const (
@@ -25,7 +25,7 @@ var _ = ginkgo.Describe("[APM]", func() {
 	ginkgo.BeforeEach(func() {
 		// TODO this is a bit coarse, but I'm not sure a better solution is possible
 		// without modifications to the APM.
-		// More details: https://github.com/shubhamdubey02/Cryft-cli/issues/244
+		// More details: https://github.com/MetalBlockchain/metal-cli/issues/244
 		utils.RemoveAPMRepo()
 	})
 

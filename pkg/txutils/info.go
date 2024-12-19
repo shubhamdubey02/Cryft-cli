@@ -5,8 +5,8 @@ package txutils
 import (
 	"fmt"
 
+	"github.com/MetalBlockchain/metal-cli/pkg/models"
 	"github.com/MetalBlockchain/metalgo/vms/platformvm/txs"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
 )
 
 // get network model associated to tx

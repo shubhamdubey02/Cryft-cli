@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/MetalBlockchain/metal-cli/pkg/application"
 	"github.com/spf13/cobra"
 )
 

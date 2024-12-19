@@ -6,9 +6,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/binutils"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/MetalBlockchain/metal-cli/pkg/application"
+	"github.com/MetalBlockchain/metal-cli/pkg/binutils"
+	"github.com/MetalBlockchain/metal-cli/pkg/constants"
 	"github.com/spf13/cobra"
 )
 

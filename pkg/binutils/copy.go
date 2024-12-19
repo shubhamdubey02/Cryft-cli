@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/MetalBlockchain/metal-cli/pkg/constants"
 )
 
 func CopyFile(src, dest string) error {

@@ -8,8 +8,8 @@ import (
 	"errors"
 	"strings"
 
+	"github.com/MetalBlockchain/metal-cli/pkg/constants"
 	"github.com/MetalBlockchain/metalgo/api/info"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
 )
 
 type StatusChecker interface {

@@ -7,6 +7,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/MetalBlockchain/metal-cli/internal/mocks"
+	"github.com/MetalBlockchain/metal-cli/pkg/ux"
 	"github.com/MetalBlockchain/metalgo/api/info"
 	"github.com/MetalBlockchain/metalgo/ids"
 	"github.com/MetalBlockchain/metalgo/utils/json"
@@ -14,8 +16,6 @@ import (
 	"github.com/MetalBlockchain/metalgo/vms/platformvm"
 	"github.com/MetalBlockchain/metalgo/vms/platformvm/api"
 	"github.com/olekukonko/tablewriter"
-	"github.com/shubhamdubey02/Cryft-cli/internal/mocks"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

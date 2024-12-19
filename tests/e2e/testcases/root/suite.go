@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/MetalBlockchain/metal-cli/tests/e2e/commands"
 	ginkgo "github.com/onsi/ginkgo/v2"
 	"github.com/onsi/gomega"
-	"github.com/shubhamdubey02/Cryft-cli/tests/e2e/commands"
 )
 
 var _ = ginkgo.Describe("[Root]", func() {

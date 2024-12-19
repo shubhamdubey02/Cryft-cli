@@ -10,7 +10,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/MetalBlockchain/metal-cli/pkg/constants"
 	"golang.org/x/mod/semver"
 )
 

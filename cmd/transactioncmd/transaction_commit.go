@@ -3,12 +3,12 @@
 package transactioncmd
 
 import (
+	"github.com/MetalBlockchain/metal-cli/cmd/subnetcmd"
+	"github.com/MetalBlockchain/metal-cli/pkg/subnet"
+	"github.com/MetalBlockchain/metal-cli/pkg/txutils"
+	"github.com/MetalBlockchain/metal-cli/pkg/ux"
 	"github.com/MetalBlockchain/metalgo/ids"
 	"github.com/MetalBlockchain/metalgo/vms/secp256k1fx"
-	"github.com/shubhamdubey02/Cryft-cli/cmd/subnetcmd"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/subnet"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/txutils"
-	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/spf13/cobra"
 )
 
