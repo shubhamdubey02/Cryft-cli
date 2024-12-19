@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/MetalBlockchain/metal-cli/pkg/constants"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
 	"github.com/stretchr/testify/require"
 )
 

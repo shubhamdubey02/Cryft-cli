@@ -7,9 +7,9 @@ import (
 	"fmt"
 	"unicode"
 
-	"github.com/MetalBlockchain/metal-cli/pkg/models"
-	"github.com/MetalBlockchain/metal-cli/pkg/ux"
-	"github.com/MetalBlockchain/metal-cli/pkg/vm"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/vm"
 	"github.com/spf13/cobra"
 	"golang.org/x/mod/semver"
 )

@@ -6,8 +6,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/MetalBlockchain/metal-cli/pkg/ux"
 	"github.com/MetalBlockchain/metalgo/utils/logging"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/stretchr/testify/require"
 )
 

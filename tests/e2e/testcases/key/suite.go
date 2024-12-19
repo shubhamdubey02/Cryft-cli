@@ -8,11 +8,11 @@ import (
 	"path"
 	"strings"
 
-	"github.com/MetalBlockchain/metal-cli/pkg/constants"
-	"github.com/MetalBlockchain/metal-cli/tests/e2e/commands"
-	"github.com/MetalBlockchain/metal-cli/tests/e2e/utils"
 	ginkgo "github.com/onsi/ginkgo/v2"
 	"github.com/onsi/gomega"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/shubhamdubey02/Cryft-cli/tests/e2e/commands"
+	"github.com/shubhamdubey02/Cryft-cli/tests/e2e/utils"
 )
 
 const (

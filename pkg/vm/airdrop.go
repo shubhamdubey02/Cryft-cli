@@ -7,10 +7,10 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/MetalBlockchain/metal-cli/pkg/application"
-	"github.com/MetalBlockchain/metal-cli/pkg/statemachine"
 	"github.com/ava-labs/subnet-evm/core"
 	"github.com/ethereum/go-ethereum/common"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/statemachine"
 )
 
 const (

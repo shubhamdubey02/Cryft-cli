@@ -5,8 +5,8 @@ package models
 import (
 	"fmt"
 
-	"github.com/MetalBlockchain/metal-cli/pkg/constants"
 	avago_constants "github.com/MetalBlockchain/metalgo/utils/constants"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
 )
 
 type Network int64

@@ -8,9 +8,9 @@ import (
 
 	"github.com/MetalBlockchain/apm/apm"
 	"github.com/MetalBlockchain/apm/config"
-	"github.com/MetalBlockchain/metal-cli/pkg/application"
-	"github.com/MetalBlockchain/metal-cli/pkg/constants"
 	"github.com/go-git/go-git/v5/plumbing/transport/http"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
 	"github.com/spf13/afero"
 	"github.com/spf13/viper"
 	"gopkg.in/yaml.v2"

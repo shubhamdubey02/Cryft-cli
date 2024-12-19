@@ -7,10 +7,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/MetalBlockchain/metal-cli/internal/mocks"
-	"github.com/MetalBlockchain/metal-cli/pkg/application"
-	"github.com/MetalBlockchain/metal-cli/pkg/statemachine"
 	"github.com/ethereum/go-ethereum/common"
+	"github.com/shubhamdubey02/Cryft-cli/internal/mocks"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/statemachine"
 	"github.com/stretchr/testify/mock"
 )
 
