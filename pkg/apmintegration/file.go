@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/ava-labs/apm/types"
-	"github.com/ava-labs/avalanche-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
 	"gopkg.in/yaml.v3"
 )
 

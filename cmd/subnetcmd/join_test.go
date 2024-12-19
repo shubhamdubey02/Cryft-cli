@@ -5,9 +5,9 @@ package subnetcmd
 import (
 	"testing"
 
-	"github.com/ava-labs/avalanche-cli/internal/mocks"
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/avalanchego/vms/platformvm"
+	"github.com/shubhamdubey02/Cryft-cli/internal/mocks"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

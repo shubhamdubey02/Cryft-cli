@@ -5,7 +5,7 @@ package upgradecmd
 import (
 	"fmt"
 
-	"github.com/ava-labs/avalanche-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
 	"github.com/spf13/cobra"
 )
 

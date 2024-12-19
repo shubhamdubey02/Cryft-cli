@@ -6,7 +6,7 @@ package binutils
 import (
 	"fmt"
 
-	"github.com/ava-labs/avalanche-cli/pkg/constants"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
 )
 
 const (

@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/binutils"
-	"github.com/ava-labs/avalanche-cli/pkg/constants"
-	"github.com/ava-labs/avalanche-cli/pkg/statemachine"
-	"github.com/ava-labs/avalanche-cli/pkg/ux"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/binutils"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/statemachine"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 )
 
 func getChainID(app *application.Avalanche) (*big.Int, error) {

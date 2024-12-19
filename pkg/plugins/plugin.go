@@ -9,10 +9,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/binutils"
-	"github.com/ava-labs/avalanche-cli/pkg/models"
 	"github.com/ava-labs/avalanche-network-runner/utils"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/binutils"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
 )
 
 func SanitizePath(path string) (string, error) {

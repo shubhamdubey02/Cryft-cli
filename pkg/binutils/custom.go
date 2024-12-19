@@ -3,7 +3,7 @@
 
 package binutils
 
-import "github.com/ava-labs/avalanche-cli/pkg/application"
+import "github.com/shubhamdubey02/Cryft-cli/pkg/application"
 
 func SetupCustomBin(app *application.Avalanche, subnetName string) string {
 	// Just need to get the path of the vm

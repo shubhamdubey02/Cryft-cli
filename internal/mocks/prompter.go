@@ -10,7 +10,7 @@ import (
 
 	mock "github.com/stretchr/testify/mock"
 
-	models "github.com/ava-labs/avalanche-cli/pkg/models"
+	models "github.com/shubhamdubey02/Cryft-cli/pkg/models"
 
 	time "time"
 

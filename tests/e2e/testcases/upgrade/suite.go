@@ -12,18 +12,18 @@ import (
 	"time"
 	"unicode"
 
-	"github.com/ava-labs/avalanche-cli/cmd/subnetcmd/upgradecmd"
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/binutils"
-	"github.com/ava-labs/avalanche-cli/pkg/models"
-	"github.com/ava-labs/avalanche-cli/tests/e2e/commands"
-	"github.com/ava-labs/avalanche-cli/tests/e2e/utils"
 	anr_utils "github.com/ava-labs/avalanche-network-runner/utils"
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/avalanchego/utils/logging"
 	"github.com/ava-labs/subnet-evm/params"
 	ginkgo "github.com/onsi/ginkgo/v2"
 	"github.com/onsi/gomega"
+	"github.com/shubhamdubey02/Cryft-cli/cmd/subnetcmd/upgradecmd"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/binutils"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
+	"github.com/shubhamdubey02/Cryft-cli/tests/e2e/commands"
+	"github.com/shubhamdubey02/Cryft-cli/tests/e2e/utils"
 )
 
 const (

@@ -6,10 +6,10 @@ package vm
 import (
 	"testing"
 
-	"github.com/ava-labs/avalanche-cli/internal/mocks"
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/constants"
-	"github.com/ava-labs/avalanche-cli/pkg/models"
+	"github.com/shubhamdubey02/Cryft-cli/internal/mocks"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

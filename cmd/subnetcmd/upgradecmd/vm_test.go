@@ -7,14 +7,14 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/config"
-	"github.com/ava-labs/avalanche-cli/pkg/constants"
-	"github.com/ava-labs/avalanche-cli/pkg/models"
-	"github.com/ava-labs/avalanche-cli/pkg/prompts"
-	"github.com/ava-labs/avalanche-cli/pkg/utils"
-	"github.com/ava-labs/avalanche-cli/pkg/ux"
 	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/config"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/prompts"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/utils"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/stretchr/testify/require"
 )
 

@@ -6,8 +6,8 @@ package binutils
 import (
 	"path/filepath"
 
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/constants"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
 )
 
 func SetupSubnetEVM(app *application.Avalanche, subnetEVMVersion string) (string, error) {

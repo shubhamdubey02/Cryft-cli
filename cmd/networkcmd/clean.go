@@ -7,11 +7,11 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"github.com/ava-labs/avalanche-cli/pkg/binutils"
-	"github.com/ava-labs/avalanche-cli/pkg/constants"
-	"github.com/ava-labs/avalanche-cli/pkg/subnet"
-	"github.com/ava-labs/avalanche-cli/pkg/ux"
 	"github.com/shirou/gopsutil/process"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/binutils"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/subnet"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 )

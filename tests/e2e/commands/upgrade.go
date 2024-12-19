@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"os/exec"
 
-	"github.com/ava-labs/avalanche-cli/tests/e2e/utils"
+	"github.com/shubhamdubey02/Cryft-cli/tests/e2e/utils"
 )
 
 func ImportUpgradeBytes(subnetName, filepath string) (string, error) {

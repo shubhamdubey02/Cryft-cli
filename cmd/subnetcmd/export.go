@@ -6,8 +6,8 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/models"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
 	"github.com/spf13/cobra"
 )
 

@@ -7,10 +7,10 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/ava-labs/avalanche-cli/internal/mocks"
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/statemachine"
 	"github.com/ethereum/go-ethereum/common"
+	"github.com/shubhamdubey02/Cryft-cli/internal/mocks"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/statemachine"
 	"github.com/stretchr/testify/mock"
 )
 

@@ -12,9 +12,9 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/models"
 	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/models"
 	"github.com/stretchr/testify/require"
 	"golang.org/x/mod/semver"
 )

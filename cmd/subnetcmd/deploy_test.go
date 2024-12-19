@@ -6,10 +6,10 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/ava-labs/avalanche-cli/cmd/flags"
-	"github.com/ava-labs/avalanche-cli/internal/mocks"
-	"github.com/ava-labs/avalanche-cli/pkg/application"
 	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/shubhamdubey02/Cryft-cli/cmd/flags"
+	"github.com/shubhamdubey02/Cryft-cli/internal/mocks"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

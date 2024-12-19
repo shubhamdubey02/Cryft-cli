@@ -7,8 +7,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/ava-labs/avalanche-cli/pkg/ux"
 	"github.com/ava-labs/avalanchego/utils/logging"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/stretchr/testify/require"
 )
 

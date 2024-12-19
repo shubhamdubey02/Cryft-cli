@@ -3,7 +3,7 @@
 package main
 
 import (
-	"github.com/ava-labs/avalanche-cli/cmd"
+	"github.com/shubhamdubey02/Cryft-cli/cmd"
 )
 
 func main() {

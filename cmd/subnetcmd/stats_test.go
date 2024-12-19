@@ -7,8 +7,6 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ava-labs/avalanche-cli/internal/mocks"
-	"github.com/ava-labs/avalanche-cli/pkg/ux"
 	"github.com/ava-labs/avalanchego/api/info"
 	"github.com/ava-labs/avalanchego/ids"
 	"github.com/ava-labs/avalanchego/utils/json"
@@ -16,6 +14,8 @@ import (
 	"github.com/ava-labs/avalanchego/vms/platformvm"
 	"github.com/ava-labs/avalanchego/vms/platformvm/api"
 	"github.com/olekukonko/tablewriter"
+	"github.com/shubhamdubey02/Cryft-cli/internal/mocks"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/ux"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

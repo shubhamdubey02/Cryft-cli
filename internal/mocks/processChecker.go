@@ -3,7 +3,7 @@
 package mocks
 
 import (
-	application "github.com/ava-labs/avalanche-cli/pkg/application"
+	application "github.com/shubhamdubey02/Cryft-cli/pkg/application"
 
 	mock "github.com/stretchr/testify/mock"
 )

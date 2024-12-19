@@ -8,9 +8,9 @@ import (
 
 	"github.com/ava-labs/apm/apm"
 	"github.com/ava-labs/apm/config"
-	"github.com/ava-labs/avalanche-cli/pkg/application"
-	"github.com/ava-labs/avalanche-cli/pkg/constants"
 	"github.com/go-git/go-git/v5/plumbing/transport/http"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/application"
+	"github.com/shubhamdubey02/Cryft-cli/pkg/constants"
 	"github.com/spf13/afero"
 	"github.com/spf13/viper"
 	"gopkg.in/yaml.v2"
